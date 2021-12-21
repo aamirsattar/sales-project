@@ -1,0 +1,16 @@
+.field-length {
+    width: 70% !important;
+    margin-left: 15%;
+}
+.label-margin {
+    margin-left: 15%;
+    color: #ffffff;
+}
+.background-div {
+    width: 40%;
+    height: auto;
+    background-color: #1f7a8f;
+    position: relative;
+    left: 32%;
+    border-radius: 35px 0px 35px 0px ;
+}
